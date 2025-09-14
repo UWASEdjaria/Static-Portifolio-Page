@@ -29,3 +29,37 @@ UWASE Djaria
 
 ## License
 This project is for personal and learning use only.
+This is a personal portfolio website showcasing my projects, skills, and contact information.
+# Djaria's Static Portfolio Page
+
+Welcome to my personal portfolio website! This project showcases my work, skills, and contact information in a clean, modern layout.
+
+## 🌟 Features
+- **Home:** Brief introduction and welcome message
+- **About:** Information about me and my background
+- **Projects:** Gallery of my featured projects
+- **Contact:** Simple form to get in touch
+
+## 📸 Screenshots
+Find screenshots of each page in the `screenshots` folder:
+- `index.png` — Home
+- `about.png` — About
+- `projects.png` — Projects
+- `contact.png` — Contact
+
+## 🚀 Getting Started
+To view the portfolio:
+1. Download or clone this repository.
+2. Open `index.html` in your web browser.
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3 (Tailwind CSS)
+- JavaScript
+
+## 👩‍💻 Author
+**UWASE Djaria**
+
+## 📄 License
+This project is for personal and educational use only.
+This folder contains screenshots of the portfolio website pages.
